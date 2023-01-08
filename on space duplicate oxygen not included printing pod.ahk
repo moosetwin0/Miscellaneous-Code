@@ -3,7 +3,7 @@
 SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 #SingleInstance Force ; for debugging
-; This is old code, unmaintaned for at least a year or two
+; This is old code, unmaintained for at least a year or two
 /*
 this should be run with the lowest oxygen not included speed
 with the right half of the screen (res 798 x 828)
